@@ -1,11 +1,5 @@
 #include "swarm.h"
-/*****************************************
-** File:    mytest.cpp
-** Project: CMSC 341 project 2, Fall 2020
-** Author:  Rostam Boroumand Rad
-** Date:    10/26/21
-** E-mail:  r66@umbc.edu
-***********************************************/
+
 
 class Tester{
 public:

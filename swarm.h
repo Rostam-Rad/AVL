@@ -1,9 +1,7 @@
-//UMBC - CSEE - CMSC 341 - Fall 2021 - Proj2
 #ifndef SWARM_H
 #define SWARM_H
 #include <iostream>
 using namespace std;
-class Grader;//this class is for grading purposes, no need to do anything
 class Tester;//this is your tester class, you add your test functions in this class
 enum STATE {ALIVE, DEAD};
 enum ROBOTTYPE {BIRD, DRONE, REPTILE, SUB, QUADRUPED};

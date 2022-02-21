@@ -1,4 +1,3 @@
-//UMBC - CSEE - CMSC 341 - Fall 2021 - Proj2
 #include "swarm.h"
 Swarm::Swarm(){
   m_root = nullptr;
